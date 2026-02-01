@@ -1,16 +1,18 @@
-## Hi there 👋
+# Raahul Narayana Reddy Kummitha
+Data Analyst | ETL (Talend, SQL, Python) | ML Projects (FastAPI, SHAP, NLP)
 
-<!--
-**Knraahul/Knraahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 College Park, MD  
+🌐 Portfolio: https://knraahul.github.io  
+💼 LinkedIn: <PASTE_LINKEDIN>  
+📫 Email: knraahul@umd.edu  
 
-Here are some ideas to get you started:
+## What I bring
+- Built and supported ETL pipelines and data workflows (Talend, SQL, Python)
+- Built ML projects end to end: training, evaluation, APIs, explainability, and deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+- Portfolio website: https://knraahul.github.io
+- Projects: (coming next) Student Performance Prediction (FastAPI + SHAP), Speech-to-Text (Whisper + Streamlit), Hate Speech Detection (NLP)
+
+## Tech
+Python • SQL • Talend • FastAPI • SHAP • PySpark • TensorFlow • Docker • AWS
