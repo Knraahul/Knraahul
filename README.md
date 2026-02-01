@@ -3,7 +3,7 @@ Data Analyst | ETL (Talend, SQL, Python) | ML Projects (FastAPI, SHAP, NLP)
 
 📍 College Park, MD  
 🌐 Portfolio: https://knraahul.github.io  
-💼 LinkedIn: <PASTE_LINKEDIN>  
+💼 LinkedIn: https://www.linkedin.com/in/raahul-narayana-reddy-k-7904a21aa/ 
 📫 Email: knraahul@umd.edu  
 
 ## What I bring
