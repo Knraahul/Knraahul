@@ -1,10 +1,10 @@
 # Raahul Narayana Reddy Kummitha
 Data Analyst | ETL (Talend, SQL, Python) | ML Projects (FastAPI, SHAP, NLP)
 
-📍 College Park, MD  
+📍 Virginia , USA
 🌐 Portfolio: https://knraahul.github.io  
 💼 LinkedIn: https://www.linkedin.com/in/raahul-narayana-reddy-k-7904a21aa/  
-📫 Email: knraahul@umd.edu  
+📫 Email: knraahul@gmail.edu  
 
 ## What I bring
 - Built and supported ETL pipelines and data workflows (Talend, SQL, Python)
