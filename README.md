@@ -2,6 +2,7 @@
 Data Analyst | ETL (Talend, SQL, Python) | ML Projects (FastAPI, SHAP, NLP)
 
 📍 Virginia , USA
+
 🌐 Portfolio: https://knraahul.github.io  
 💼 LinkedIn: https://www.linkedin.com/in/raahul-narayana-reddy-k-7904a21aa/  
 📫 Email: knraahul@gmail.edu  
